@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-BD2EA98341C11EB45C117F9903D3B0E1</CrashGUID>
+<ProcessId>15772</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<SecondsSinceStart>22</SecondsSinceStart>
+<GameName>UE4-BachelorarbeitReady</GameName>
+<ExecutableName>BachelorarbeitReady</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineVersion>4.11.2-2946394+++UE4+Release-4.11</EngineVersion>
+<CommandLine></CommandLine>
+<LanguageLCID>9</LanguageLCID>
+<AppDefaultLocale>de_DE</AppDefaultLocale>
+<IsUE4Release>0</IsUE4Release>
+<UserName></UserName>
+<BaseDir>D:/Bachelor_Test_Small/WindowsNoEditor/BachelorarbeitReady/Binaries/Win64/</BaseDir>
+<RootDir>D:/Bachelor_Test_Small/WindowsNoEditor/</RootDir>
+<MachineId>ADD8DC5A4ED2A5782465CFA803D09F76</MachineId>
+<EpicAccountId>623b5c4e59c64c9ba70864f125ea0a07</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage></ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>AuthenticAMD</Misc.CPUVendor>
+<Misc.CPUBrand>AMD FX(tm)-8350 Eight-Core Processor           </Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>AMD Radeon HD 7900 Series</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17138663424</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
